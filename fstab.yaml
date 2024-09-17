@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1z_HoV_nw6HIY4y3yxe4BKz-ELpfZSbMD
+  /:
+    url: https://content.da.live/aem-training/author-training/
+    type: markup
